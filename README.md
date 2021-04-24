@@ -434,5 +434,4 @@ float: right;
 
 => yang berisi form isian: nama, email, message, dll
 
-
-
+![Pertanyaan 2](https://user-images.githubusercontent.com/81839328/115944993-845ab280-a4e3-11eb-8e92-e33a169166dc.JPG)
