@@ -75,7 +75,9 @@ float: none;
 Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), dan amati perubahannya.
 # 5. Membuat Layout Sederhana
 Kita akan membuat layout web sederhana seperti gambar berikut.
+
 ![5 1](https://user-images.githubusercontent.com/81839328/115942045-5d47b500-a4d2-11eb-8dee-607ed2d4adc1.JPG)
+
 Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
 ~~~
 <!DOCTYPE html>
