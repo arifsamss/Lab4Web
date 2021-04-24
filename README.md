@@ -95,7 +95,9 @@ Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya 
 </html>
 ~~~
 Kemudian buat kerangka layout dengan semantics element seperti berikut.
+
 ![5 2](https://user-images.githubusercontent.com/81839328/115942093-a7c93180-a4d2-11eb-8664-cbe45f8dd0e7.JPG)
+
 Kemudian tulis kode berikut.
 ~~~
 <header>
