@@ -425,10 +425,14 @@ float: right;
 ![13 2 Hasil](https://user-images.githubusercontent.com/81839328/115942633-5f5f4300-a4d5-11eb-9de4-e479c42fafcf.JPG)
 # Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
+
 => buat single layout yang berisi deskripsi, portfolio, dll
 
 ![Pertanyaan 1](https://user-images.githubusercontent.com/81839328/115944062-def11000-a4dd-11eb-9e9a-6d3449f511e5.JPG)
 
 2. Tambahkan layout untuk menu Contact
+
 => yang berisi form isian: nama, email, message, dll
+
+
 
